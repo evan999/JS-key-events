@@ -15,8 +15,6 @@ document.addEventListener('keydown', (event) => {
   else if(event.which == 88){
     window.close();  
   }
-  
-  
     
 });
 
